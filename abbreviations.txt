@@ -1,0 +1,39 @@
+Polof.,Pulofeesa
+Owek.,owekitibwa
+Mw.,Mwami
+Omw.,Mwami
+Omuky.,Mukyala
+n'omuky.,Mukyala
+Okjz,Okugeza
+Omuk.,Omukungu
+Lw2,Lwakubiri
+Lw6,Lwamukaaga
+Gavt,Gavumenti
+Gavt.,Gavumenti
+Fr.,Faaza
+Rev.,Omwawule
+Sr.,Ssa
+Br.,Bulaaza
+Pr.,Musumba
+Dr.,Dokita
+Gen.,Jenero
+Maj.,Meeja
+Col.,KKano
+Capt.,Kaputeeni
+Lt.,Lutenanti
+Brig.,Buligeediya
+Pvt.,Pulayiveeti
+TV,Tivvi
+CD,Ssidi
+DVD,Ddivvidi
+Rm,Ekisenge
+U-17,Abali wansi w'emyaka kkumi na musanvu
+U-18,Abali wansi w'emyaka kkumi na munaana
+U-19,Abali wansi w'emyaka kkumi na mwenda
+U-21,Abali wansi w'emyaka abiri mu gumu
+U-23,Abali wansi w'emyaka abiri mu ssatu
+P.7,ekibiina ky'omusanvu
+P.6,ekibiina ky'omusanvu
+M7,Museveni
+S.6,Senior ey'omukaaga
+ZZ,zenkolawo zendya
